@@ -118,6 +118,11 @@ You are required to submit the following:
 
 <img src='https://avatars2.githubusercontent.com/u/59622936?s=400&u=fe927532f372b8d415d425a1cfc307fad3be0abb&v=4' style='width: 100px'>
 
+
+[![EMAIL me!](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](mailto:sanjidanawrin123@gmail.com)
+
+[![ForTheBadge built-by-developers](http://ForTheBadge.com/images/badges/built-by-developers.svg)](https://github.com/sn-1)
+
 ***
 
 © 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
