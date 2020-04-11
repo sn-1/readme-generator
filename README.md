@@ -116,4 +116,8 @@ You are required to submit the following:
 
 ***
 
+<img src='https://avatars2.githubusercontent.com/u/59622936?s=400&u=fe927532f372b8d415d425a1cfc307fad3be0abb&v=4' style='width: 100px'>
+
+***
+
 © 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
